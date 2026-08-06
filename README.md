@@ -1,8 +1,8 @@
-# 💫 About Me:
-🛠️ I’m currently working on automation tools, Discord bots, backend logic for campaigns, and scaling view based payout systems<br>🤝 I’m looking to collaborate on Python automation, bots, backend systems, and problem solving heavy projects<br>🤲 I’m looking for help with scaling infrastructure, performance optimization, and production level deployments<br>🌱 I’m currently learning advanced backend development, system design, cloud hosting, and clean architecture<br>💬 Ask me about Python, automation, bots, scraping, APIs, backend logic, and building things that actually work<br>⚡ Fun fact: I enjoy solving complex problems more than building fancy UIs, logic always comes first
+#  About Me:
+I’m currently working on dashboards, CMS, automation tools, Discord bots, backend logic for campaigns, and scaling view based payout systems<br> I’m looking to collaborate on Python automation, bots, backend systems, and problem solving heavy projects<br> I’m looking for help with scaling infrastructure, performance optimization, and production level deployments<br> I’m currently learning advanced backend development, system design, cloud hosting, and clean architecture<br> Ask me about Python, automation, bots, scraping, APIs, backend logic, and building things that actually work<br> Fun fact: I enjoy solving complex problems more than building fancy UIs, logic always comes first
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/senseikhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhann.khnn@gmail.com) 
 
 # 💻 Tech Stack:
