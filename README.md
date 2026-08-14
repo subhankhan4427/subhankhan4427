@@ -1,8 +1,8 @@
-## About Me:
-I’m currently working on dashboards, CMS, automation tools, Discord bots, backend logic for campaigns, and scaling view based payout systems<br> I’m looking to collaborate on Python automation, bots, backend systems, and problem solving heavy projects<br> ‘Fun fact: I enjoy solving complex problems more than building fancy UIs, logic always comes first
+#  About Me:
+I’m currently working on dashboards, CMS, automation tools, Discord bots, backend logic for campaigns, and scaling view based payout systems<br> I’m looking to collaborate on Python automation, bots, backend systems, and problem solving heavy projects
 
 
-## Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/senseikhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhann.khan@gmail.com)
 
 # 💻 Tech Stack:
