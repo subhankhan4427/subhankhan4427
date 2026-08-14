@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on dashboards, CMS, automation tools, Discord bots, backend logic for campaigns, and scaling view based payout systems<br> I’m looking to collaborate on Python automation, bots, backend systems, and problem solving heavy projects<br> I’Fun fact: I enjoy solving complex problems more than building fancy UIs, logic always comes first
+I’m currently working on dashboards, CMS, automation tools, Discord bots, backend logic for campaigns, and scaling view based payout systems<br> I’m looking to collaborate on Python automation, bots, backend systems, and problem solving heavy projects<br>Fun fact: I enjoy solving complex problems more than building fancy UIs, logic always comes first
 
 
 ##  Socials:
